@@ -28,11 +28,11 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lyuchengwu@zju.edu.cn'
-    label: E-mail Me
+    url: 'mailto:lyuchengwu@zju.edu.cn'
+    label: E-mail Me by zju email
   - icon: at-symbol
-    url: 'lyuchengwu@zju.edu.cn'
-    label: E-mail Me2
+    url: 'mailto:lyuchengwu@u.nus.edu'
+    label: E-mail Me by nus emali
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -45,7 +45,7 @@ profiles:
   #   url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/CV-WuLyucheng.pdf
     label: Download my resume
 ---
 
