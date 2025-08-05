@@ -31,7 +31,7 @@ profiles:
     url: 'mailto:lyuchengwu@zju.edu.cn'
     label: E-mail Me by zju email
   - icon: at-symbol
-    url: 'mailto:lyuchengwu@u.nus.edu'
+    url: 'mailto:lyucheng@comp.nus.edu.sg'
     label: E-mail Me by nus emali
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
