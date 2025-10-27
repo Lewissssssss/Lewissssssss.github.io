@@ -45,7 +45,7 @@ profiles:
   #   url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/CV-WuLyucheng.pdf
+    url: uploads/cv_2025_10.pdf
     label: Download my resume
 ---
 
